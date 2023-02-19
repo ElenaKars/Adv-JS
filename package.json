@@ -1,8 +1,8 @@
-{
+ {
   "name": "defender-game",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Browser based game",
+  "entry point": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ElenaKars/Adv-JS.git"
   },
+"keywords": "game",
   "author": "Elena Karsten",
   "license": "ISC",
   "bugs": {
